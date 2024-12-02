@@ -107,14 +107,11 @@ USDT方式提现，优盾钱包自动代付时，新增提现金额超过指定�
 
 前端：
 
-https://cs.zhugege.vip/h5
+https://hcsc.sykeji.vip/dist
+账号：13000000000   密码：123456
 
-账号：user  密码：123456
-
-后端：
-https://cs.zhugege.vip/
-admin
-联系客服：qq 29980928 飞机：@zhugegekaifa
+后端：https://hcsc.sykeji.vip/admin
+账号密码请联系客服：qq 29980928 飞机：@zhugegekaifa
 
 
 
